@@ -9,4 +9,4 @@ This board will be most active during the library's Research Data Office Hours s
 * Research Data Management information for the health sciences ([link](https://guides.library.yale.edu/rdm_healthsci))
 * More information about Research Data Office Hours @ CWML ([link](https://library.medicine.yale.edu/research-data/drop-in-help))
 
-![useful image](https://github.com/sauuyer/CWML-Research-Data-Management-Office-Hours/blob/master/images/research-data-image.png)
+[![useful image](https://github.com/sauuyer/CWML-Research-Data-Management-Office-Hours/blob/master/images/research-data-image.png)](https://library.medicine.yale.edu/research-data)
