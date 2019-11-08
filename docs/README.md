@@ -11,6 +11,5 @@ This board will be most active during the library's Research Data Office Hours s
 
 <iframe width="100%" height="650px" src="https://awwapp.com/b/ufn87iqow/"></iframe>
 
-Questions are answered by Yale's Medical Librarians.
 
-[![useful image](https://github.com/sauuyer/CWML-Research-Data-Management-Office-Hours/blob/master/images/research-data-image.png)](https://library.medicine.yale.edu/research-data)
+[![Research Data Services @ Yale's Cushing/Whitney Medical Library](https://github.com/sauuyer/CWML-Research-Data-Management-Office-Hours/blob/master/images/research-data-image.png)](https://library.medicine.yale.edu/research-data)
