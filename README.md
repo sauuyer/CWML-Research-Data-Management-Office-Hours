@@ -5,4 +5,4 @@ This webpage hosts an online whiteboard where you can ask questions about resear
 
 Responses to questions posted on this whiteboard will be answered most quickly during the library's
 
-![useful image]({{ https://github.com/sauuyer/CWML-Research-Data-Management-Office-Hours/blob/master}}/images/research-data-image.psd)
+![useful image](https://github.com/sauuyer/CWML-Research-Data-Management-Office-Hours/blob/master/images/research-data-image.psd)
