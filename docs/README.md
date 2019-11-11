@@ -12,4 +12,5 @@ This board will be most active during the library's Research Data Office Hours s
 <iframe width="100%" height="650px" src="https://awwapp.com/b/ufn87iqow/"></iframe>
 
 
-![Research Data Services @ Yale's Cushing/Whitney Medical Library](../images/research-data-image.png)
+<img src="../images/research-data-image.png" alt = "Research Data Services @ Yale's Cushing/Whitney Medical Library" />
+
